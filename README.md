@@ -11,12 +11,9 @@
  ## Linguagens e Frameworks
  
 <div class="display: inline-block">
-  <img align="center" height="70" width="80" alt="Gabriel-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="70" width="80" alt="Gabriel-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="70" width="80" alt="Gabriel-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="70" width="80" alt="Gabriel-FLASK" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <img align="center" height="70" width="80" alt="Gabriel-MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="70" width="80" alt="Gabriel-ACHEMY" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <img align="center" height="70" width="80" alt="Gabriel-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </div>
 
   ## Onde me encontrar?
