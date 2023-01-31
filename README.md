@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou cursando Engenharia de Software na UnB.
-- ☕ Estudando Java.
+- ☕ Estudando Java e Data Science.
 - 👨‍💻 Estou a procura de experiências na área de Tecnologia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRosa09&show_icons=true&theme=radical)
