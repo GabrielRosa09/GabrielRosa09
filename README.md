@@ -1,28 +1,34 @@
-## Olá, eu sou o Gabriel! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009999&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009999&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Rosa;I'm+21+years+old;I'm+from+Brazil;I+Graduated+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Atualmente estou cursando Engenharia de Software na UnB.
-- ☕ Estudando Java e Data Science.
-- 👨‍💻 Estou a procura de experiências na área de Tecnologia.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielrosa09&bg_color=0d1117&color=009999&line=009999&point=009999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRosa09&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRosa09&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielrosa09&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
- ## Linguagens e Frameworks
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielrosa09&show_icons=true&count_private=true&hide_border=true&title_color=ffffcc&icon_color=ffffcc&text_color=ffffcc&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrosa09&layout=compact&hide_border=true&title_color=ffffcc&text_color=ffffcc&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+<a href="https://instagram.com/gabrielsro09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="mailto:gabriel10919@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-rosa-621250143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
  
-<div class="display: inline-block">
-  <img align="center" height="70" width="80" alt="Gabriel-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="70" width="80" alt="Gabriel-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="70" width="80" alt="Gabriel-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
+## Main skills:
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-  ## Onde me encontrar?
-  
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-rosa-621250143/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/dev_gabriel.rosa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:gabriel10919@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
+## Studying in this moment:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 ![Snake animation](https://github.com/GabrielRosa09/GabrielRosa09/blob/output/github-contribution-grid-snake.svg)
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009999&height=120&section=footer"/>
 
