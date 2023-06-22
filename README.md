@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009999&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Rosa;I'm+21+years+old;I'm+from+Brazil;I+Graduated+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielrosa09&bg_color=0d1117&color=009999&line=009999&point=009999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielrosa09&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
