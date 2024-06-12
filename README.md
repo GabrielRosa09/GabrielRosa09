@@ -30,7 +30,7 @@
 ## Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
-![Snake animation](https://github.com/GabrielRosa09/GabrielRosa09/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielrosa09/gabrielrosa09/blob/output/github-contribution-grid-snake.svg)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009999&height=120&section=footer"/>
 
